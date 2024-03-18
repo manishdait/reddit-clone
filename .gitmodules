@@ -1,0 +1,6 @@
+[submodule "reddit-clone-client"]
+	path = reddit-clone-client
+	url = https://github.com/ManishDait/reddit-clone-client.git
+[submodule "reddit-clone-api"]
+	path = reddit-clone-api
+	url = https://github.com/ManishDait/reddit-clone-api.git
